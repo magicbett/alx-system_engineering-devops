@@ -1,2 +1,2 @@
 #!/bin/bash
-chloe u+x hello
+rm *~
